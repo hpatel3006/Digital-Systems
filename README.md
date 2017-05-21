@@ -1,2 +1,2 @@
 # Digital-Systems
-Verilog, Quartus, ModelSim
+Verilog, Quartus, ModelSim, Moore and Mealy machine
